@@ -1,0 +1,22 @@
+{
+  "name": "pharmacie-admin",
+  "homepage": "https://github.com/podisto/pharmacie-admin",
+  "authors": [
+    "Podisto <omardione1991@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "~0.5.7",
+    "js-cookie": "~2.1.0"
+  }
+}
